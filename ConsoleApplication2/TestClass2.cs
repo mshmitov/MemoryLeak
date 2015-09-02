@@ -16,7 +16,7 @@ namespace ConsoleApplication2
 
         public void TestFireEvent(object sender, EventArgs args)
         {
-            
+            Console.WriteLine("TestClass2 event class fired");
         }
     }
 }
