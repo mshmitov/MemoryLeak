@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +11,8 @@ namespace ConsoleApplication2
         public TestClass2()
         {
             int c = 10;
+            int a = 5;
+            int b = 10;
         }
 
 
