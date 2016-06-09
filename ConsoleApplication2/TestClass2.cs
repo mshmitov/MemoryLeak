@@ -10,7 +10,7 @@ namespace ConsoleApplication2
     {
         public TestClass2()
         {
-            
+            int c = 10;
         }
 
 
